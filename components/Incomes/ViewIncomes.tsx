@@ -14,4 +14,4 @@ const ViewIncomes = () => {
   );
 }
 
-export default ViewIncomes
+export default ViewIncomes;
